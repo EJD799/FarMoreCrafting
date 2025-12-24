@@ -3,6 +3,8 @@
 
 **This addon allows you to craft several normally uncraftable items.**
 
+[![](https://img.shields.io/badge/Download%20on-Curseforge-orange?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/addons/farmorecrafting)
+
 Recipes:
 
 ![](https://media.forgecdn.net/attachments/description/null/description_6d80e9aa-0e0b-4ada-a6c4-5a64392481f4.png)
