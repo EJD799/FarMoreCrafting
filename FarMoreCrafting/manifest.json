@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "FarMoreCrafting",
+    "description": "FarMoreCrafting",
+    "uuid": "0f161406-8100-4779-a808-d40bedd7bfeb",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 30]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "5e60ecee-8628-4df7-a9cb-960baeae2c41",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "product_type":"addon"
+  },
+  "dependencies": []
+}

@@ -1,0 +1,29 @@
+{
+    "format_version": "1.21.30",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:elytra"
+        },
+        "tags": ["crafting_table"],
+        "pattern": ["ABA", "A A"],
+        "key": {
+            "A": "minecraft:phantom_membrane",
+	    "B": "minecraft:redstone"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:phantom_membrane"
+            },
+            {
+                "item": "minecraft:redstone"
+            }
+        ],
+        "result": [
+            {
+                "item": "minecraft:elytra",
+
+                "count": 1
+            }
+        ]
+    }
+}

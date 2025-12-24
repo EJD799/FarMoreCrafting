@@ -1,0 +1,26 @@
+{
+    "format_version": "1.21.30",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:name_tag"
+        },
+        "group": "handles",
+        "tags": ["crafting_table"],
+        "ingredients": [
+            "minecraft:paper",
+	    "minecraft:string"
+        ],
+        "unlock": [
+            {
+                "item": "minecraft:paper"
+            },
+            {
+                "item": "minecraft:string"
+            }
+        ],
+        "result": {
+            "item": "minecraft:name_tag",
+            "count": 1
+        }
+    }
+}

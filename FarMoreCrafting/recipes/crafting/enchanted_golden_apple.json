@@ -1,0 +1,29 @@
+{
+    "format_version": "1.21.30",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:enchanted_golden_apple"
+        },
+        "tags": ["crafting_table"],
+        "pattern": ["AAA", "ABA", "AAA"],
+        "key": {
+            "A": "minecraft:gold_block",
+	    "B": "minecraft:apple"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:gold_block"
+            },
+            {
+                "item": "minecraft:apple"
+            }
+        ],
+        "result": [
+            {
+                "item": "minecraft:enchanted_golden_apple",
+
+                "count": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "format_version": "1.21.30",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:trident"
+        },
+        "tags": ["crafting_table"],
+        "pattern": ["AAA", " B ", " B "],
+        "key": {
+            "A": "minecraft:prismarine_shard",
+	    "B": "minecraft:breeze_rod"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:breeze_rod"
+            },
+            {
+                "item": "minecraft:prismarine_shard"
+            }
+        ],
+        "result": [
+            {
+                "item": "minecraft:trident",
+
+                "count": 1
+            }
+        ]
+    }
+}

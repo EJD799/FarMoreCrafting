@@ -1,0 +1,33 @@
+{
+    "format_version": "1.21.30",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:totem_of_undying"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [" A ", "BCB", " C "],
+        "key": {
+            "A": "minecraft:emerald",
+	    "B": "minecraft:copper_block",
+	    "C": "minecraft:gold_block"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:emerald"
+            },
+            {
+                "item": "minecraft:copper_block"
+            },
+            {
+                "item": "minecraft:gold_block"
+            }
+        ],
+        "result": [
+            {
+                "item": "minecraft:totem_of_undying",
+
+                "count": 1
+            }
+        ]
+    }
+}

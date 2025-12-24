@@ -1,0 +1,25 @@
+{
+    "format_version": "1.21.30",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:saddle"
+        },
+        "tags": ["crafting_table"],
+        "pattern": ["AAA", "AAA", "A A"],
+        "key": {
+            "A": "minecraft:leather"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:leather"
+            }
+        ],
+        "result": [
+            {
+                "item": "minecraft:saddle",
+
+                "count": 1
+            }
+        ]
+    }
+}
